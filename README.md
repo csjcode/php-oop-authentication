@@ -7,5 +7,7 @@ Now, I am in the process of making my own modifications on the front-end and upg
 
 Although I am mostly currently doing React and Node.js work, I have seen some need for PHP authentication upgrades, so I'm hoping this will be helpful to somebody and/or my potential clients.
 
+The original commit should be working locally, it may require some small modifications depending on your server setup and environment.   
+
 Chris
 
